@@ -7,3 +7,6 @@ Go to your FTP Program and upload GDPSPanel in your GDPS Folder and then go to p
 Now you go to the modtools table and add a new user with the id 1 along with your pin, username and password
 
 You should login now and manage your GDPS with a few clicks!
+
+# Where to download
+Download at https://seecomp.cf/gdpspanel
